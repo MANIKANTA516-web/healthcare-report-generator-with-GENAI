@@ -1,4 +1,5 @@
-<img width="236" height="397" alt="image" src="https://github.com/user-attachments/assets/37aa25d8-3e10-4937-a354-8199b5c50ecc" />
+<img width="799" height="1349" alt="Screenshot 2025-08-24 075614" src="https://github.com/user-attachments/assets/e3d7a59c-80f0-495d-a12c-ad386db93d31" />
+
 <img width="1888" height="902" alt="img1" src="https://github.com/user-attachments/assets/a3265e9b-14a1-4b17-b4c0-88feae05d0e9" />
 
 
@@ -29,5 +30,6 @@ A comprehensive AI-powered healthcare companion that analyzes symptoms, generate
 ```bash
 git clone https://github.com/yourusername/medigen-ai.git
 cd medigen-ai
+
 
 
