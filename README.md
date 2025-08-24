@@ -1,3 +1,5 @@
+<img width="236" height="397" alt="image" src="https://github.com/user-attachments/assets/37aa25d8-3e10-4937-a354-8199b5c50ecc" />
+
 # MediGen AI - Generative Healthcare Companion
 
 A comprehensive AI-powered healthcare companion that analyzes symptoms, generates medical reports, and provides personalized health recommendations.
@@ -25,3 +27,4 @@ A comprehensive AI-powered healthcare companion that analyzes symptoms, generate
 ```bash
 git clone https://github.com/yourusername/medigen-ai.git
 cd medigen-ai
+
